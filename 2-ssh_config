@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Client configuration file
+ssh-keygen -p -f ./school
+
+
+
+
+
+
